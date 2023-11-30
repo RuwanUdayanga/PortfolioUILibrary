@@ -1,0 +1,3 @@
+[submodule "BaseSDK"]
+	path = BaseSDK
+	url = https://github.com/RuwanUdayanga/PortfolioBaseSDK.git
